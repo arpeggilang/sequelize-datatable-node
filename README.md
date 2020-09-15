@@ -11,7 +11,7 @@ Server-side datatables with Sequelize.
 #### Instalation
 
 ```
-npm install sequelize-datatables
+npm install sequelize-datatables-glg
 ```
 
 #### API

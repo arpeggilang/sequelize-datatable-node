@@ -1,11 +1,11 @@
 {
-  "name": "sequelize-datatables",
-  "version": "3.0.0",
-  "description": "Server-side datatables with sequelize",
+  "name": "sequelize-datatables-glg",
+  "version": "1.0.0",
+  "description": "Server-side datatables with sequelize, forked from alwint3r/sequelize-datatable-node",
   "main": "src/index.js",
-  "author": "Alwin Arrasyid <alwin.ridd@gmail.com>",
+  "author": "Gilang Aulia Muhamad <gilangauli@gmail.com>",
   "bugs": {
-    "url": "https://github.com/alwint3r/sequelize-datatable-node/issues"
+    "url": "https://github.com/arpeggilang/sequelize-datatable-node/issues"
   },
   "engines": {
     "node": "^7.6.0 || ^10"
@@ -13,7 +13,7 @@
   "files": [
     "src"
   ],
-  "homepage": "https://github.com/alwint3r/sequelize-datatable-node/#readme",
+  "homepage": "https://github.com/arpeggilang/sequelize-datatable-node/#readme",
   "keywords": [
     "sequelize",
     "datatables"
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alwint3r/sequelize-datatable-node.git"
+    "url": "git+https://github.com/arpeggilang/sequelize-datatable-node.git"
   },
   "scripts": {
     "lint": "eslint src test",
@@ -56,5 +56,8 @@
     "pg-native": "^1.10.0",
     "prettier": "^1.19.1",
     "rimraf": "^2.6.2"
+  },
+  "directories": {
+    "test": "test"
   }
 }
