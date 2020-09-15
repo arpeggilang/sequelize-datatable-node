@@ -71,7 +71,7 @@ route.get(`/datasource`, (req, res) => {
 You must have docker installed on your system if you want to test this module on your machine.
 
 ```bash
-git clone https://github.com/alwint3r/sequelize-datatable-node.git
+git clone https://github.com/arpeggilang/sequelize-datatable-node.git
 cd sequelize-datatable-node
 npm install
 
