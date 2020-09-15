@@ -1,6 +1,6 @@
 {
   "name": "sequelize-datatables-glg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Server-side datatables with sequelize, forked from alwint3r/sequelize-datatable-node",
   "main": "src/index.js",
   "author": "Gilang Aulia Muhamad <gilangauli@gmail.com>",
