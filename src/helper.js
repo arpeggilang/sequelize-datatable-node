@@ -47,9 +47,7 @@ const getModelAndColumn = column => {
 };
 
 const getDialectFromModel = model => {
-  const { sequelize } = model.QueryInterface;
-
-  return sequelize.options.dialect;
+  return model.sequelize.options.dialect;
 };
 
 module.exports = {
